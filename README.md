@@ -1,6 +1,6 @@
-# Eyes Exercise
+# Eyes
 
-## Follow Mouse Movement
+## Eyes exercise
 
 <img src= "eyes.png" width='300'/>
 
