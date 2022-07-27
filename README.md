@@ -1,4 +1,4 @@
-# Eye Movement Exercise
+# Eyes Exercise
 
 ## Follow Mouse Movement
 
