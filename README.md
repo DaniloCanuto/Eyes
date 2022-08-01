@@ -2,6 +2,8 @@
 
 ## Eyes exercise
 
+https://danilocanuto.github.io/Eyes/
+
 <img src= "eyes.png" width='300'/>
 
 Description: In this exercise my task was to add and position a second "eye" element and have both eyes follow the mouse position on the screen using mouse events.
