@@ -1,8 +1,4 @@
-# Eyes
-
-## Eyes exercise
-
-https://danilocanuto.github.io/Eyes/
+# Eyes exercise [Eyes Movement](https://danilocanuto.github.io/Eyes/)
 
 <img src= "eyes.png" width='300'/>
 
